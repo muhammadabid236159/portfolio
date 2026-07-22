@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactTyped } from 'react-typed';
 import Counter from './Counter';
-import profileImg from '../assets/images/Profile.jpg';
+import profileImg from "../assets/images/profile.jpg.jpeg";
 import '../styles/hero.css';
 
 const Hero = () => {
